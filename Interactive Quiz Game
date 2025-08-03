@@ -1,0 +1,78 @@
+print("Welcome to the quiz!")
+print("Type the correct answer! For each correct answer +1 mark is awarded. No negative marking")
+
+score = 0
+
+print("1.Which is the cleanest city of India?")
+answer1 = input("Your answer: \n").strip().lower()
+if answer1 == "indore":
+    print("Absolutely correct ✅!")
+    score += 1
+else:
+    print("Uh oh! Incorrect answer ❌!")
+
+print("2. What is the capital of England?")
+answer2 = input("Your answer: \n").strip().lower()
+if answer2 == "london":
+    print("Absolutely correct ✅!")
+    score += 1
+else:
+    print("Uh oh! Incorrect answer ❌!")
+print("3.Who is the president of India?:\n")
+answer3=input("Your answer:\n").strip().lower()
+if answer3=="draupadi murmu":
+      print("Correct one! ✅")
+      score+=1
+else:
+      print("No! It's not correct!😕")
+print("Which team recently won the 2024 T20 World Cup?:\n")
+answer4= input ("Your answer:\n").strip().lower()
+if answer4=="india":
+       print("Yes! 😃 🇮🇳")
+       score+=1
+else:
+       print("Nope😶")
+
+print("What is India's global position in defence systems?:\n")
+answer5=int(input("Your answer:\n"))
+if answer5==4:
+      print("Yes!Got it right 👍🏻!\n")
+      score+=1
+else:
+     print("No! Incorrect answer!\n")
+print("6. Which is the smallest country in the world?")
+answer6=input("Your answer:\n").strip().lower()
+if answer6=="vatican city":
+       print("Well done ✅!)
+       score+=1
+else:
+      print("Wrong answer 😑!")
+print("7. Which is the largest state of India?")
+answer7=input("Your answer:\n").strip().lower()
+if answer7=="uttar pradesh":
+       print("Yup 👍🏻! that's correct!")
+       score+=1
+else: 
+       print("No! Incorrect answer ❌ 👎🏻!")
+print("8. Which bird can't fly?")
+answer8=input("Your answer:\n").strip().lower()
+if answer8=="kiwi":
+      print("Yes! That's right 👍🏻")
+      score+=1
+else:
+      print("Oops 😬!No..")
+print("9. Which is the no1. country in terms of advanced medical science?")
+answer9=input ("Your answer:\n").strip().lower()
+if answer9=="italy":
+      print("That's correct 💯!")
+      score+=1
+else:
+      print("No! Incorrect answer 👎🏻")
+print("10. Name the science institute established by J.C.Bose?")
+answer10=input("Your answer:\n")
+if answer10=="basu biggan mandir":
+      print("Correct one!🙌🏻")
+      score+=1
+else:
+      print("No! Try next time!")
+print(f"\nYour total score is: {score}/10")
