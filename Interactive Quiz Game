@@ -1,78 +1,161 @@
-print("Welcome to the quiz!")
-print("Type the correct answer! For each correct answer +1 mark is awarded. No negative marking")
-
-score = 0
-
-print("1.Which is the cleanest city of India?")
-answer1 = input("Your answer: \n").strip().lower()
-if answer1 == "indore":
+#all functions
+import winsound
+import random
+def buzzer():
+    frequency = 1000  
+    duration = 500    
+    winsound.Beep(frequency, duration)
+def correct_beep():
+    winsound.Beep(1500, 300)
+def handle_correct():
     print("Absolutely correct ✅!")
-    score += 1
-else:
-    print("Uh oh! Incorrect answer ❌!")
+    correct_beep()
+def handle_wrong():
+    print("Oops! That's not correct ❌.")
+    buzzer()
+def print_summary():
+    print("\n📊 Your performance summary:")
+    print("✅ Answered without taking option:", len(correct_without_option))
+    print("✅ Answered with option:", len(correct_with_option))
+    print("❌ Answered incorrectly:", len(wrong_answers))
+    score = (len(correct_without_option) * 2 + len(correct_with_option) * 1)
+    print(f"\n🎯 Final Score: {score} out of {num_questions * 2} "
+          f"({score / (num_questions * 2) * 100:.2f}%)")
+    input("Press Enter to continue...")
+    print("\nCorrect answers without options:", 
+          [f"{list(c.keys())[0]}: {list(c.values())[0]}" for c in correct_without_option])
+    print("Correct answers with options:", 
+          [f"{list(l.keys())[0]}: {list(l.values())[0]}" for l in correct_with_option])
+    print("Wrong answers:", 
+          [f"{list(w.keys())[0]}: {list(w.values())[0]}" for w in wrong_answers])
+def print_rules():
+    print("📜 Quiz Rules:")
+    print("1. Each question carries 2 marks.")
+    print("2. If you use the options, 1 mark will be deducted.")
+    print("3. Answering without options is encouraged!")
+    print("👉 Type 'opt++' if you want options.\n")
+def check_answer(q, answer, correct_answer, options):
+    global score
+    
+    if answer == correct_answer:
+        handle_correct()
+        correct_without_option.append({q: correct_answer})
+    
+    elif answer == "opt++":
+        print("Options:")
+        for idx, opt in enumerate(options, start=1):
+            print(f"{idx}. {opt}")
+        
+        choice = input("Choose the correct option number:\n").strip()
+        if choice in ['1', '2', '3', '4']:
+            selected_option = options[int(choice) - 1].lower()
+        else:
+            selected_option = choice.lower()
+        
+        if selected_option == correct_answer:
+            handle_correct()
+            correct_with_option.append({q: correct_answer})
+        else:
+            handle_wrong()
+            wrong_answers.append({q: f"{selected_option} ❌ | Correct: {correct_answer} ✅"})
+    
+    else:
+        handle_wrong()
+        wrong_answers.append({q: f"{answer} ❌ | Correct: {correct_answer} ✅"})
+def start_quiz():
+    print("👋 Hey! Welcome to the quiz game developed by The Code Cadets! 😀")
+    print("---------------------------")
+    print_rules()
+    input("\nPress Enter to continue...\n")
+    print("\nAnd we are all set! ❤ Let's begin! 🎯 🙌\n")
+    print_rules()
 
-print("2. What is the capital of England?")
-answer2 = input("Your answer: \n").strip().lower()
-if answer2 == "london":
-    print("Absolutely correct ✅!")
-    score += 1
-else:
-    print("Uh oh! Incorrect answer ❌!")
-print("3.Who is the president of India?:\n")
-answer3=input("Your answer:\n").strip().lower()
-if answer3=="draupadi murmu":
-      print("Correct one! ✅")
-      score+=1
-else:
-      print("No! It's not correct!😕")
-print("Which team recently won the 2024 T20 World Cup?:\n")
-answer4= input ("Your answer:\n").strip().lower()
-if answer4=="india":
-       print("Yes! 😃 🇮🇳")
-       score+=1
-else:
-       print("Nope😶")
-
-print("What is India's global position in defence systems?:\n")
-answer5=int(input("Your answer:\n"))
-if answer5==4:
-      print("Yes!Got it right 👍🏻!\n")
-      score+=1
-else:
-     print("No! Incorrect answer!\n")
-print("6. Which is the smallest country in the world?")
-answer6=input("Your answer:\n").strip().lower()
-if answer6=="vatican city":
-       print("Well done ✅!)
-       score+=1
-else:
-      print("Wrong answer 😑!")
-print("7. Which is the largest state of India?")
-answer7=input("Your answer:\n").strip().lower()
-if answer7=="uttar pradesh":
-       print("Yup 👍🏻! that's correct!")
-       score+=1
-else: 
-       print("No! Incorrect answer ❌ 👎🏻!")
-print("8. Which bird can't fly?")
-answer8=input("Your answer:\n").strip().lower()
-if answer8=="kiwi":
-      print("Yes! That's right 👍🏻")
-      score+=1
-else:
-      print("Oops 😬!No..")
-print("9. Which is the no1. country in terms of advanced medical science?")
-answer9=input ("Your answer:\n").strip().lower()
-if answer9=="italy":
-      print("That's correct 💯!")
-      score+=1
-else:
-      print("No! Incorrect answer 👎🏻")
-print("10. Name the science institute established by J.C.Bose?")
-answer10=input("Your answer:\n")
-if answer10=="basu biggan mandir":
-      print("Correct one!🙌🏻")
-      score+=1
-else:
-      print("No! Try next time!")
-print(f"\nYour total score is: {score}/10")
+#main program
+start_quiz()
+questions = [
+    {"Which is the cleanest city of India?": "indore"},
+    {"What is the capital of England?": "london"},
+    {"Who is the president of India?": "draupadi murmu"},
+    {"Which team recently won the 2024 T20 World Cup?": "india"},
+    {"What is India's global position in defence systems?": "4"},
+    {"Which is the smallest country in the world?": "vatican city"},
+    {"Which is the largest state of India?": "rajasthan"},
+    {"Which bird can't fly?": "kiwi"},
+    {"Which is the no1. country in terms of advanced medical science?": "italy"},
+    {"Name the science institute established by J.C. Bose?": "bosu biggan mandir"},
+    {"Who wrote the national anthem of India?": "rabindranath tagore"},
+    {"Which planet is known as the Red Planet?": "mars"},
+    {"What is the largest ocean in the world?": "pacific ocean"},
+    {"Who invented the telephone?": "alexander graham bell"},
+    {"Which is the longest river in the world?": "nile"},
+    {"What is the currency of Japan?": "yen"},
+    {"Who painted the Mona Lisa?": "leonardo da vinci"},
+    {"Which country is known as the Land of the Rising Sun?": "japan"},
+    {"What is the hardest natural substance?": "diamond"},
+    {"Who discovered gravity?": "isaac newton"},
+    {"Which physicist developed the theory of general relativity?": "albert einstein"},
+    {"What is the only country in the world to have a non-rectangular flag?": "nepal"},
+    {"Which element has the highest electrical conductivity?": "silver"},
+    {"Who was the first woman to win a Nobel Prize?": "marie curie"},
+    {"Which ancient civilization built Machu Picchu?": "inca"},
+    {"What is the smallest bone in the human body?": "stapes"},
+    {"Which mathematician is known as the 'Prince of Mathematicians'?": "carl friedrich gauss"},
+    {"Which is the deepest known point in Earth's oceans?": "mariana trench"},
+    {"Who wrote the play 'Waiting for Godot'?": "samuel beckett"},
+    {"Which country was formerly known as Abyssinia?": "ethiopia"}
+]
+options = [
+    ["indore", "mysuru", "pune", "bhopal"],
+    ["london", "bristol", "sheffield", "newcastle"],
+    ["meira kumar", "sushma swaraj", "draupadi murmu", "nirmala sitharaman"],
+    ["south africa", "india", "sri lanka", "bangladesh"],
+    ["3", "7", "8", "4"],
+    ["tuvalu", "vatican city", "palau", "andorra"],
+    ["rajasthan", "madhya pradesh", "maharashtra", "uttar pradesh"],
+    ["kiwi", "ostrich", "emu", "cassowary"],
+    ["switzerland", "south korea", "italy", "sweden"],
+    ["bose innovation centre", "bosu biggan mandir", "kolkata science forum", "bose experimental lab"],
+    ["bankim chandra chatterjee", "kazi nazrul islam", "lala lajpat rai", "rabindranath tagore"],
+    ["mars", "venus", "jupiter", "saturn"],
+    ["pacific ocean", "atlantic ocean", "indian ocean", "arctic ocean"],
+    ["thomas edison", "alexander graham bell", "nikola tesla", "guglielmo marconi"],
+    ["nile", "amazon", "yangtze", "mississippi"],
+    ["yen", "won", "yuan", "baht"],
+    ["leonardo da vinci", "pablo picasso", "vincent van gogh", "claude monet"],
+    ["japan", "china", "south korea", "thailand"],
+    ["diamond", "gold", "platinum", "ruby"],
+    ["isaac newton", "galileo galilei", "nikola tesla", "albert einstein"],
+    ["albert einstein", "isaac newton", "nikola tesla", "stephen hawking"],
+    ["nepal", "bhutan", "switzerland", "vatican city"],
+    ["silver", "copper", "gold", "aluminum"],
+    ["marie curie", "dorothy hodgkin", "irene joliot-curie", "lise meitner"],
+    ["inca", "maya", "aztec", "olmec"],
+    ["stapes", "femur", "tibia", "fibula"],
+    ["carl friedrich gauss", "leonhard euler", "riemann", "laplace"],
+    ["mariana trench", "tonga trench", "kuril trench", "philippine trench"],
+    ["samuel beckett", "eugene ionesco", "harold pinter", "arthur miller"],
+    ["ethiopia", "eritrea", "somalia", "djibouti"]
+]
+correct_with_option = []
+correct_without_option = []
+wrong_answers = []
+num_questions = 10
+print("Welcome to the quiz!\n")
+k = 0 
+while k < num_questions and questions:
+    i = random.randint(0, len(questions) - 1)
+    q = list(questions[i].keys())[0]
+    correct_answer = list(questions[i].values())[0].lower()
+    
+    print(f"Q{k+1}. {q}")
+    answer = input("Your answer:\n").strip().lower()
+    
+    check_answer(q, answer, correct_answer, options[i])
+    
+    questions.pop(i)
+    options.pop(i)
+    k += 1
+    print("---------------------------")
+print("\n🎉 Quiz Over!")
+print_summary()
+print("🙏 Thank you for playing! 🙂\n")
