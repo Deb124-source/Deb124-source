@@ -7,8 +7,8 @@
 
 ## 🔧 Tech Stack  
 - **Languages:** Python, JavaScript, C, HTML, CSS  
-- **Frameworks & Libraries:** React, Node.js, Express, Bootstrap, Pandas, NumPy, Matplotlib  
-- **Databases:** MySQL, SQLite  
+- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib , Seaborn
+- **Database** MySQL
 - **Tools:** Git, GitHub, Google Colab, VS Code  
 
 ---
@@ -17,7 +17,7 @@
 
 🔹 [**Airbnb Hotel Booking Analysis**](https://github.com/Deb124-source/VOIS_AICTE_Oct2025_DebdutNandy.git) – Data Analysis project using Google Colab regarding the Airbnb Hotel Booking Analysis dataset 📊
 🔹 [**Personal Portfolio Website**](https://personalportfp.netlify.app) – My personal website showcasing projects, resume, and skills 🎯
-🔹 [**Student Grade Management System**](https://deb124-source.github.io/Student-grade-management-system-/) – CRUD web app for student records ⏺️ 
+🔹 [**Student Grade Management System**](https://deb124-source.github.io/Student-grade-management-system-/) – CRUD website for student records ⏺️ 
 🔹 [**Quiz Application**](https://deb124-source.github.io/Quiz-website/) – Web-based quiz with scoring system 💻
 🔹 [**Tic-Tac-Toe Game**](https://deb124-source.github.io/Tic-Tac-Toe-game-/) – Simple browser-based game 🎮 
 
