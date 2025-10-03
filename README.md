@@ -15,10 +15,11 @@
 
 ## 📌 Featured Projects  
 
-🔹 [**Portfolio Website**](https://personalportfp.netlify.app) – My personal website showcasing projects, resume, and skills  
-🔹 [**Student Grade Management System**](https://github.com/Deb124-source/student-grade-system) – CRUD web app for student records  
-🔹 [**Quiz Application**](https://github.com/Deb124-source/quiz) – Web-based quiz with scoring system  
-🔹 [**Tic-Tac-Toe Game**](https://github.com/Deb124-source/tictactoe) – Simple browser-based game  
+🔹 [**Airbnb Hotel Booking Analysis**](https://github.com/Deb124-source/VOIS_AICTE_Oct2025_DebdutNandy.git) – Data Analysis project using Google Colab regarding the Airbnb Hotel Booking Analysis dataset 📊
+🔹 [**Personal Portfolio Website**](https://personalportfp.netlify.app) – My personal website showcasing projects, resume, and skills 🎯
+🔹 [**Student Grade Management System**](https://deb124-source.github.io/Student-grade-management-system-/) – CRUD web app for student records ⏺️ 
+🔹 [**Quiz Application**](https://deb124-source.github.io/Quiz-website/) – Web-based quiz with scoring system 💻
+🔹 [**Tic-Tac-Toe Game**](https://deb124-source.github.io/Tic-Tac-Toe-game-/) – Simple browser-based game 🎮 
 
 *(More projects coming soon 🚀)*  
 
@@ -40,9 +41,9 @@
 ---
 
 ## 📫 Let’s Connect  
-- 🌐 Portfolio: [personalportfp.netlify.app](https://personalportfp.netlify.app)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)  
-- 📧 Email: your.email@example.com  
+- 🌐 Portfolio: https://personalportfp.netlify.app/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/debdut-nandy-4b0a88321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- 📧 Email: debdut937@gmail.com 
 
 ---
 
