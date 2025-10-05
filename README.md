@@ -47,4 +47,4 @@
 
 ---
 
-⭐️ *“Code, Learn, Repeat — the journey never stops!”*
+⭐️ *"Code, Learn, Repeat — the journey never stops!”*
