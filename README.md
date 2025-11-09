@@ -19,9 +19,9 @@
 🔹 [**Netflix Dataset Analysis**](https://github.com/Deb124-source/VOIS_AICTE_Oct2025_MajorProject_DebdutNandy.git) – Major Data Analysis project using Google Colab regarding the Netflix Dataset 📈
 🔹 [**Personal Portfolio Website**](https://personalportfp.netlify.app) – My personal website showcasing projects, resume, and skills 🎯
 
- ✅ **Machine Learning Projects** :
+## ✅ Machine Learning Projects :
  
-🔹 [**Bank Loan Approval System **](https://github.com/Deb124-source/Bank-Loan-Approval-System-ML.git) Smart Machine Learning Model to analyse eligibility of a person to take loan from a bank or not.
+🔹 [**Bank Loan Approval System**](https://github.com/Deb124-source/Bank-Loan-Approval-System-ML.git) Smart Machine Learning Model to analyse eligibility of a person to take loan from a bank or not.
 
 (More projects coming soon 🚀)*  
 
