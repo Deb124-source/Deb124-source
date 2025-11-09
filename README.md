@@ -18,7 +18,13 @@
 🔹 [**Airbnb Hotel Booking Analysis**](https://github.com/Deb124-source/VOIS_AICTE_Oct2025_DebdutNandy.git) – Data Analysis project using Google Colab regarding the Airbnb Hotel Booking Analysis dataset 📊
 🔹 [**Netflix Dataset Analysis**](https://github.com/Deb124-source/VOIS_AICTE_Oct2025_MajorProject_DebdutNandy.git) – Major Data Analysis project using Google Colab regarding the Netflix Dataset 📈
 🔹 [**Personal Portfolio Website**](https://personalportfp.netlify.app) – My personal website showcasing projects, resume, and skills 🎯
-*(More projects coming soon 🚀)*  
+
+ ✅ **Machine Learning Projects** :
+ 
+🔹 [**Bank Loan Approval System **](https://github.com/Deb124-source/Bank-Loan-Approval-System-ML.git) Smart Machine Learning Model to analyse eligibility of a person to take loan from a bank or not.
+
+(More projects coming soon 🚀)*  
+
 
 ---
 
@@ -38,7 +44,7 @@
 ---
 
 ## 📫 Let’s Connect  
-- 🌐 Portfolio: na https://personalportfp.netlify.app/ 
+- 🌐 Portfolio: https://personalportfp.netlify.app/ 
 - 💼 LinkedIn: https://www.linkedin.com/in/debdut-nandy-4b0a88321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - 📧 Email: debdut937@gmail.com 
 
