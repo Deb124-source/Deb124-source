@@ -23,7 +23,7 @@
  
 🔹 [**Bank Loan Approval System**](https://github.com/Deb124-source/Bank-Loan-Approval-System-ML.git) Smart Machine Learning Model to analyse eligibility of a person to take loan from a bank or not.
 
-(More projects coming soon 🚀)*  
+(More projects coming soon 🚀)  
 
 
 ---
