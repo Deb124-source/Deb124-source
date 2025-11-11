@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Debdut Nandy  
 
-🚀 **Intern Data Analyst @ Edunet Foundation**  
+🚀 **Pursuing Internship on Data Analysis and Green skills & AI @ Edunet Foundation**  
 💡 Passionate about problem-solving, data-driven insights, and building interactive web applications.  
 
 ---
