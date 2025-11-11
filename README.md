@@ -38,7 +38,7 @@ Exploratory Data Analysis of Airbnb dataset to uncover booking & cancellation tr
 ### 🎬 [Netflix Dataset Analysis](https://github.com/Deb124-source/Netflix_Dataset_EDA)
 EDA project identifying viewing trends and content distribution patterns.  
 🔹 **Tech:** Python · Pandas · Plotly  
-🔹 **Highlights:** Interactive visual dashboards  
+🔹 **Highlights:** Gathered impactful data-driven insights. 
 
 ---
 
