@@ -1,53 +1,67 @@
 # 👋 Hi, I'm Debdut Nandy  
 
-🚀 **Pursuing Internship on Data Analysis and Green skills & AI @ Edunet Foundation**  
-💡 Passionate about problem-solving, data-driven insights, and building interactive web applications.  
+🎯 **Passionate Coder | Aspiring Data & ML Engineer | Problem Solver**
+
+💻 Currently pursuing **B.Tech in CSE (AI & ML)** from **Brainware University**.  
+I love turning data into insights, building intelligent systems, and developing real-world web apps.
 
 ---
 
-## 🔧 Tech Stack  
-- **Languages:** Python, JavaScript, C, HTML, CSS  
-- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib , Seaborn
-- **Database** MySQL
-- **Tools:** Git, GitHub, Google Colab, VS Code  
+## 🚀 About Me
+- 🧩 Strong interest in **Data Analysis, Machine Learning & LLMs**  
+- 🌱 Currently exploring **Full-Stack Web Development** (React · Node.js · MongoDB)  
+- 🔍 I enjoy solving problems through code and optimizing real-world workflows  
+- 🤝 Always open to collaborating on innovative ML and AI projects  
 
 ---
 
-## 📌 Featured Projects  
-
-🔹 [**Airbnb Hotel Booking Analysis**](https://github.com/Deb124-source/VOIS_AICTE_Oct2025_DebdutNandy.git) – Data Analysis project using Google Colab regarding the Airbnb Hotel Booking Analysis dataset 📊
-🔹 [**Netflix Dataset Analysis**](https://github.com/Deb124-source/VOIS_AICTE_Oct2025_MajorProject_DebdutNandy.git) – Major Data Analysis project using Google Colab regarding the Netflix Dataset 📈
-🔹 [**Personal Portfolio Website**](https://personalportfp.netlify.app) – My personal website showcasing projects, resume, and skills 🎯
-
-## ✅ Machine Learning Projects :
- 
-🔹 [**Bank Loan Approval System**](https://github.com/Deb124-source/Bank-Loan-Approval-System-ML.git) Smart Machine Learning Model to analyse eligibility of a person to take loan from a bank or not.
-
-(More projects coming soon 🚀)  
-
+## 🧠 Tech Stack
+**Languages:** Python · JavaScript · C · HTML · CSS  
+**Libraries & Tools:** Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow · Streamlit  
+**Frameworks:** Flask · React (learning)  
+**Database:** MySQL · MongoDB  
+**Other Tools:** Git · VS Code · Google Colab · Jupyter Notebook  
 
 ---
 
-## 📊 GitHub Stats  
+## 📂 Featured Projects
+### 🏦 [Bank Loan Approval System](https://github.com/Deb124-source/Bank_Loan_Approval_ML)
+Machine Learning model predicting loan eligibility based on applicant data.  
+🔹 **Tech:** Python · Pandas · Scikit-learn  
+🔹 **Highlights:** Achieved 99.5% accuracy | Clear EDA visualizations | Model evaluation metrics  
 
-![Debdut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deb124-source&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deb124-source&layout=compact&theme=radical)  
+### 📊 [Airbnb Booking Analysis](https://github.com/Deb124-source/Airbnb_Booking_Analysis)
+Exploratory Data Analysis of Airbnb dataset to uncover booking & cancellation trends.  
+🔹 **Tech:** Python · Pandas · Matplotlib · Seaborn  
+🔹 **Highlights:** Insights into seasonal patterns, user behaviour, and pricing  
 
----
-
-## 🌱 What I’m Working On  
-- I have Applied **data analysis skills** during my internship at *Edunet Foundation*  
-- Exploring real-world datasets to gain insights  
-- Building more **full-stack web projects**  
-- Learning the basics of **machine learning** and building real-world projects.
-
----
-
-## 📫 Let’s Connect  
-- 🌐 Portfolio: https://personalportfp.netlify.app/ 
-- 💼 LinkedIn: https://www.linkedin.com/in/debdut-nandy-4b0a88321
-- 📧 Email: debdut937@gmail.com
+### 🎬 [Netflix Dataset Analysis](https://github.com/Deb124-source/Netflix_Dataset_EDA)
+EDA project identifying viewing trends and content distribution patterns.  
+🔹 **Tech:** Python · Pandas · Plotly  
+🔹 **Highlights:** Interactive visual dashboards  
 
 ---
 
-⭐️ *"Code, Learn, Repeat — the journey never stops!”*
+## 📈 GitHub Stats
+![Debdut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deb124-source&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deb124-source&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Goals
+- 🧠 Build more full-stack apps integrating ML models  
+- ☁️ Learn and deploy projects on AWS or Azure  
+- 📚 Contribute to open-source AI/ML libraries  
+- 🏆 Participate in hackathons and Kaggle challenges  
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debdut-nandy-4b0a88321/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://personalportfp.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-dnb120504%40gmail.com-red?logo=gmail&logoColor=white)](debdut937@gmail.com)
+
+---
+
+✨ *“Code. Learn. Iterate. Repeat.”*  
+
