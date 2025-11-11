@@ -19,7 +19,7 @@ I love turning data into insights, building intelligent systems, and developing 
 **Languages:** Python · JavaScript · C · HTML · CSS  
 **Libraries & Tools:** Pandas · NumPy · Matplotlib · Scikit-learn  
 **Frameworks:** Flask · React (learning)  
-**Database:** MySQL 
+**Database:** MySQL · MongoDB 
 **Other Tools:** Git · VS Code · Google Colab · Jupyter Notebook  
 
 ---
