@@ -9,7 +9,7 @@ I love turning data into insights, building intelligent systems, and developing 
 
 ## 🚀 About Me
 - 🧩 Strong interest in **Data Analysis, Machine Learning & LLMs**  
-- 🌱 Currently exploring **Full-Stack Web Development** (React · Node.js · MongoDB)  
+- 🌱 Currently exploring **Machine Learning**   
 - 🔍 I enjoy solving problems through code and optimizing real-world workflows  
 - 🤝 Always open to collaborating on innovative ML and AI projects  
 
@@ -17,9 +17,9 @@ I love turning data into insights, building intelligent systems, and developing 
 
 ## 🧠 Tech Stack
 **Languages:** Python · JavaScript · C · HTML · CSS  
-**Libraries & Tools:** Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow · Streamlit  
+**Libraries & Tools:** Pandas · NumPy · Matplotlib · Scikit-learn  
 **Frameworks:** Flask · React (learning)  
-**Database:** MySQL · MongoDB  
+**Database:** MySQL 
 **Other Tools:** Git · VS Code · Google Colab · Jupyter Notebook  
 
 ---
