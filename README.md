@@ -39,14 +39,14 @@
 - I have Applied **data analysis skills** during my internship at *Edunet Foundation*  
 - Exploring real-world datasets to gain insights  
 - Building more **full-stack web projects**  
-- Learning the basics of **machine learning**  
+- Learning the basics of **machine learning** and building real-world projects.
 
 ---
 
 ## 📫 Let’s Connect  
 - 🌐 Portfolio: https://personalportfp.netlify.app/ 
-- 💼 LinkedIn: https://www.linkedin.com/in/debdut-nandy-4b0a88321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-- 📧 Email: debdut937@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/debdut-nandy-4b0a88321
+- 📧 Email: debdut937@gmail.com
 
 ---
 
