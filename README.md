@@ -9,7 +9,7 @@
 
 - 💻 Currently pursuing **B.Tech in CSE (AI & ML)** from **Brainware University**.  
 
-- 🎯 I love turning data into insights, building intelligent systems, and developing real-world web apps.
+- 🎯 I love **turning data into insights, building intelligent systems, and developing real-world web apps.**
 
 - 🌱 I’m currently learning **Django, Flask**
 
@@ -33,7 +33,6 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📂 Featured Projects:
 
 ### 📊 [AI Traffic Violation Analysis](https://github.com/Deb124-source/Traffic-Detection-DevNexus.git)
