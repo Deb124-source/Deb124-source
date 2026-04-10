@@ -1,10 +1,3 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing...;Access+Granted+✔;Welcome+to+Debdut's+Matrix+🌐" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Debdut%20Nandy&fontSize=50&animation=fadeIn" />
 
 <!-- Profile Views + Followers -->
