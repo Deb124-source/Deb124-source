@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+ML+Developer;Data+Driven +Decision+Maker;🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+ML+Developer;Data+Driven +Decision+Maker;Tech+Lover+🚀" />
 </p>
 
 ---
