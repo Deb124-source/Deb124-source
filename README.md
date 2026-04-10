@@ -2,6 +2,7 @@
   <img src="banner.jpg" width="100%" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Debdut%20Nandy&fontSize=50&animation=fadeIn" />
 
 <!-- Profile Views + Followers -->
 <p align="center">
