@@ -11,10 +11,6 @@
 
 ---
 
-<!-- GIF -->
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-
-
 <h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
 <h3 align="center">A passionate aspiring Machine Learning from India with a keen interest in Data Analysis.</h3>
 
