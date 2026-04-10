@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" width="100%" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Debdut%20Nandy&fontSize=50&animation=fadeIn" />
 
 <!-- Profile Views + Followers -->
@@ -12,6 +8,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+ML+Developer;Data+Driven +Decision+Maker;🚀" />
+</p>
+
+---
 <h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
 <h3 align="center">A passionate aspiring Machine Learning from India with a keen interest in Data Analysis.</h3>
 
