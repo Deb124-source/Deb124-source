@@ -2,6 +2,19 @@
   <img src="banner.jpg" width="100%" />
 </p>
 
+
+<!-- Profile Views + Followers -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deb124-source&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Deb124-source?label=Followers&style=social" />
+</p>
+
+---
+
+<!-- GIF -->
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+
 <h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
 <h3 align="center">A passionate aspiring Machine Learning from India with a keen interest in Data Analysis.</h3>
 
@@ -72,6 +85,13 @@ EDA project identifying viewing trends and content distribution patterns.
 ---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deb124-source&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deb124-source/Deb124-source/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
