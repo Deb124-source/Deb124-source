@@ -97,7 +97,7 @@ EDA project identifying viewing trends and content distribution patterns.
 
 ---
 
-## 📊 GitHub Stats  
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
@@ -116,17 +116,17 @@ EDA project identifying viewing trends and content distribution patterns.
 </div>
 
 ---
+<h2 align="center"> 🐍 Contribution Snake Animation</h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deb124-source&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🐍 Contribution Snake Animation
 <img src="https://raw.githubusercontent.com/Deb124-source/Deb124-source/output/github-contribution-grid-snake.svg" />
 
 ---
+<h2 align="center"> 🎯 Goals</h2>
 
-## 🎯 Goals:
 - 🧠 Build more full-stack apps integrating ML models  
 - ☁️ Learn and deploy projects on AWS or Azure  
 - 📚 Contribute to open-source AI/ML libraries  
@@ -134,13 +134,14 @@ EDA project identifying viewing trends and content distribution patterns.
 
 ---
 
+<h2 align="center"> ✍️ Random Dev Quote</h2>
 
-### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 📫 Connect With Me:
+<h2 align="center"> 📩 Connect With Me</h2>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debdut-nandy-4b0a88321/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://github.com/Deb124-source/Personal_Portfolio_Website)
 [![Email](https://img.shields.io/badge/Email-debdut937%40gmail.com-red?logo=gmail&logoColor=white)](mailto:debdut937@gmail.com)
