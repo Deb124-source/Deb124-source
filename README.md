@@ -70,31 +70,59 @@
 </p>
 
 ---
-
+<br><br>
 
 <h2 align="center">🗂️ Featured Projects</h2>
 
-### 📊 [AI Traffic Violation Analysis](https://github.com/Deb124-source/Traffic-Detection-DevNexus.git)
-Analyzes road footage and detects potential traffic violations automatically using computer vision techniques.
+<br>
 
-🔹**Tech:** • Python • OpenCV • NumPy • Pandas  
-🔹**Highlights:** • Detects violations • Processes video • Generates reports
+<p align="center">
+
+### 📊 [AI Traffic Violation Analysis](https://github.com/Deb124-source/Traffic-Detection-DevNexus.git)
+Analyzes road footage and detects potential traffic violations automatically using computer vision techniques.  
+
+🔹 **Tech:** Python • OpenCV • NumPy • Pandas  
+🔹 **Highlights:** Detects violations • Processes video • Generates reports  
+
+</p>
+
+<br><br>
+
+<p align="center">
 
 ### 🏦 [Bank Loan Approval System](https://github.com/Deb124-source/Bank_Loan_Approval_ML)
 Machine Learning model predicting loan eligibility based on applicant data.  
-🔹 **Tech:** Python · Pandas · Scikit-learn  
-🔹 **Highlights:** Achieved 99.5% accuracy | Clear EDA visualizations | Model evaluation metrics. 
+
+🔹 **Tech:** Python • Pandas • Scikit-learn  
+🔹 **Highlights:** Achieved 99.5% accuracy • Clear EDA • Model evaluation  
+
+</p>
+
+<br><br>
+
+<p align="center">
 
 ### 📊 [Airbnb Booking Analysis](https://github.com/Deb124-source/Airbnb_Booking_Analysis)
 Exploratory Data Analysis of Airbnb dataset to uncover booking & cancellation trends.  
-🔹 **Tech:** Python · Pandas · Matplotlib · Seaborn  
-🔹 **Highlights:** Insights into seasonal patterns, user behaviour, and pricing.
+
+🔹 **Tech:** Python • Pandas • Matplotlib • Seaborn  
+🔹 **Highlights:** Seasonal patterns • User behaviour • Pricing insights  
+
+</p>
+
+<br><br>
+
+<p align="center">
 
 ### 🎬 [Netflix Dataset Analysis](https://github.com/Deb124-source/Netflix_Dataset_EDA)
 EDA project identifying viewing trends and content distribution patterns.  
-🔹 **Tech:** Python · Pandas · Plotly  
-🔹 **Highlights:** Gathered impactful data-driven insights. 
 
+🔹 **Tech:** Python • Pandas • Plotly  
+🔹 **Highlights:** Data-driven insights  
+
+</p>
+
+<br><br>
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
