@@ -25,6 +25,8 @@
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
+---
+
 
 <h3 align="center">A passionate aspiring Machine Learning Engineer from India with a keen interest in Data Analysis.</h3>
 
