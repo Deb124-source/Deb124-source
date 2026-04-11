@@ -17,7 +17,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
-<h3 align="center">A passionate aspiring Machine Learning from India with a keen interest in Data Analysis.</h3>
+<h3 align="center">A passionate aspiring Machine Learning Engineer from India with a keen interest in Data Analysis.</h3>
 
 - 🔭 I’m currently working on **Traffic AI-An AI powered Website to track traffic activities.**
 
