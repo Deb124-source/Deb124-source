@@ -150,8 +150,6 @@ Content trend analysis
 
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deb124-source&theme=radical"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Deb124-source&theme=radical&include_all_commits=true"/>
-
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deb124-source&theme=radical"/>
 
 </div>
