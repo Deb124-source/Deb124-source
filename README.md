@@ -10,8 +10,9 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=AI+ML+Developer;Data+Driven+Decision+Maker;Tech+Lover+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+ML+Developer;Data+Driven+Decision+Maker;Tech+Lover" />
 </p>
+
 
 <br>
 
@@ -177,9 +178,15 @@ Content trend analysis
 <h2 align="center">📩 Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/debdut-nandy-4b0a88321/">LinkedIn</a> •
-<a href="mailto:debdut937@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/debdut-nandy-4b0a88321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:debdut937@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 <br>
 
