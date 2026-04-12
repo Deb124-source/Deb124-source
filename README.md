@@ -38,7 +38,7 @@ A passionate aspiring Machine Learning Engineer from India with a keen interest 
 🎓 B.Tech in CSE (AI & ML) <br>
 💡 Love building intelligent systems <br>
 🌱 Learning Django & Flask <br>
-🌐 Portfolio: https://deb124-source.github.io/Personal_Portfolio_Website/ <br>
+🌐 Portfolio: https://debdutnandy.netlify.app/<br>
 📄 Resume: https://drive.google.com/file/d/13Y2AcG3fEnljDIab6ZbGvzM1ws5ZB9mK/view <br>
 ⚡ Fun fact: Passionate learner  
 
