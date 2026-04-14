@@ -156,7 +156,8 @@ Content trend analysis
 
 <br>
 
-<h2> align="center"> 🔹 Activity Graph</h2>
+<h2 align="center"> 🔹 Activity Graph</h2>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deb124-source)
 
 <br>
