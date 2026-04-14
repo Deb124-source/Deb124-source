@@ -156,9 +156,9 @@ Content trend analysis
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deb124-source/Deb124-source/output/github-contribution-grid-snake.svg" />
-</p>
+<h2> align="center">🔹Contribution Streak</h2>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Deb124-source)
 
 <br>
 
