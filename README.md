@@ -156,9 +156,8 @@ Content trend analysis
 
 <br>
 
-<h2> align="center">🔹Contribution Streak</h2>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Deb124-source)
+<h2> align="center"> 🔹 Activity Graph</h2>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deb124-source)
 
 <br>
 
