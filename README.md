@@ -3,7 +3,6 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deb124-source&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Deb124-source?label=Followers&style=social" />
 </p>
 
