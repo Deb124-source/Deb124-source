@@ -162,12 +162,6 @@ Content trend analysis
 
 <br>
 
-
-<br>
-
-https://github-profile-trophy.vercel.app/?Deb124-source=ryo-ma&title=Stars,Followers
-
-<br>
 <h2 align="center">🎯 Goals</h2>
 
 <p align="center">
