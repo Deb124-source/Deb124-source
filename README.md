@@ -156,6 +156,16 @@ Content trend analysis
 
 <br>
 
+
+<br>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=Deb124-source&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+
+
 <h2 align="center"> 🔹 Activity Graph</h2>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deb124-source)
