@@ -2,7 +2,7 @@
 
 <br>
 
-![GitHub followers](https://img.shields.io/github/followers/Deb124-source?label=Followers&style=social)
+![Followers](https://img.shields.io/github/followers/Deb124-source?logo=github)
 
 <br>
 
