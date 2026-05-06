@@ -2,9 +2,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Deb124-source?label=Followers&style=social" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Deb124-source?label=Followers&style=social)
 
 <br>
 
