@@ -140,7 +140,9 @@ A passionate aspiring Machine Learning Engineer from India with a keen interest 
 <!-- Helmet Detection -->
 
 <h3 align="center">👨‍🏭 Helmet Detection System</h3>
-
+<p align="center">
+  <img src="images/Helmet_detection.jpg" alt="Project Preview" width="800"/>
+</p>
 <p align="center">
 AI-powered helmet detection system using YOLOv8n for real-time safety monitoring.
 </p>
@@ -168,7 +170,9 @@ AI-powered helmet detection system using YOLOv8n for real-time safety monitoring
 <!-- House Price Prediction -->
 
 <h3 align="center">🏠 House Price Prediction System</h3>
-
+<p align="center">
+  <img src="images/demo_prediction.png" alt="Project Preview" width="800"/>
+</p>
 <p align="center">
 Machine learning model for predicting house prices using regression techniques.
 </p>
@@ -194,7 +198,9 @@ Machine learning model for predicting house prices using regression techniques.
 <!-- Loan Approval -->
 
 <h3 align="center">🏦 Bank Loan Approval System</h3>
-
+<p align="center">
+  <img src="images/Bank_Loan.jpg" alt="Project Preview" width="800"/>
+</p>
 <p align="center">
 ML-based loan eligibility prediction system using financial and customer data.
 </p>
@@ -220,7 +226,9 @@ ML-based loan eligibility prediction system using financial and customer data.
 <!-- Netflix Analysis -->
 
 <h3 align="center">🎬 Netflix Dataset Analysis</h3>
-
+<p align="center">
+  <img src="images/Netflix.jpg" alt="Project Preview" width="800"/>
+</p>
 <p align="center">
 Data analysis project exploring Netflix content trends and insights through visualization.
 </p>
