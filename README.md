@@ -131,67 +131,139 @@ A passionate aspiring Machine Learning Engineer from India with a keen interest 
   <img src="https://skillicons.dev/icons?i=mongodb,nextjs,docker" />
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654657-081b7a8e-4d3c-4a2e-8a2e-9c3f6c1fbe9b.gif">
-</p>
-
-<br>
+<br><br>
 
 <h2 align="center">🗂️ Featured Projects</h2>
 
 <br>
 
+<!-- Helmet Detection -->
+
+<h3 align="center">👨‍🏭 Helmet Detection System</h3>
+
 <p align="center">
+AI-powered helmet detection system using YOLOv8n for real-time safety monitoring.
+</p>
 
-### 📊 AI Traffic Violation Analysis  
-Detects traffic violations using computer vision  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/YOLOv8-FF4B4B?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-🔹 Tech: Python • OpenCV • NumPy • Pandas  
-
+<p align="center">
+  <a href="https://github.com/Deb124-source/AICTE_Edunet_Shell_Bike_Helmet_Detection_using_yolov8n_Debdut_Nandy">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <br><br>
 
+<!-- House Price Prediction -->
+
+<h3 align="center">🏠 House Price Prediction System</h3>
+
 <p align="center">
+Machine learning model for predicting house prices using regression techniques.
+</p>
 
-### 🏦 Bank Loan Approval System  
-ML model for loan eligibility  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+</p>
 
-🔹 Tech: Python • Pandas • Scikit-learn  
-
+<p align="center">
+  <a href="https://github.com/Deb124-source/House-Price-Prediction-System-Debdut-Nandy">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <br><br>
 
+<!-- Loan Approval -->
+
+<h3 align="center">🏦 Bank Loan Approval System</h3>
+
 <p align="center">
+ML-based loan eligibility prediction system using financial and customer data.
+</p>
 
-### 📊 Airbnb Booking Analysis  
-EDA on booking trends  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Data%20Science-0A192F?style=for-the-badge" />
+</p>
 
-🔹 Tech: Python • Pandas • Matplotlib  
-
+<p align="center">
+  <a href="https://github.com/Deb124-source/Bank-Loan-Approval-System-ML">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <br><br>
 
+<!-- Netflix Analysis -->
+
+<h3 align="center">🎬 Netflix Dataset Analysis</h3>
+
 <p align="center">
-
-### 🎬 Netflix Dataset Analysis  
-Content trend analysis  
-
-🔹 Tech: Python • Pandas • Plotly  
-
+Data analysis project exploring Netflix content trends and insights through visualization.
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Data%20Analysis-6A5ACD?style=for-the-badge" />
+</p>
 
 <p align="center">
+  <a href="https://github.com/Deb124-source/VOIS_AICTE_Oct2025_MajorProject_DebdutNandy">
+    <img src="https://img.shields.io/badge/📊%20Visit%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<br><br><p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216654657-081b7a8e-4d3c-4a2e-8a2e-9c3f6c1fbe9b.gif">
 </p>
 
 <br>
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216654657-081b7a8e-4d3c-4a2e-8a2e-9c3f6c1fbe9b.gif">
+</p>
+
+<br><br>
+
+<h2 align="center">📍 Most Used Languages</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb124-source&layout=compact&theme=tokyonight" />
+</p>
+
+<br>
+
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -237,12 +309,16 @@ Content trend analysis
 <h2 align="center">📩 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/debdut-nandy-4b0a88321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  <a href="https://www.linkedin.com/in/debdut-nandy-4b0a88321">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-  <a href="mailto:debdut937@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+
+  <a href="https://github.com/Deb124-source">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="mailto: debdut937@gmail.com">
+    <img src="https://skillicons.dev/icons?i=email" />
   </a>
 </p>
 
