@@ -6,9 +6,6 @@
   <img src="https://img.shields.io/github/followers/Deb124-source?style=social" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Open+Source+Contributor;Full+Stack+Learner;Building+Projects" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20ML-Developer-blue" />
