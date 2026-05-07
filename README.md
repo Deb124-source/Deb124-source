@@ -74,7 +74,6 @@ A passionate aspiring Machine Learning Engineer from India with a keen interest 
 
 <p align="center">
   <a href="images/Shell_certificate.jpeg">
-    <img src="https://img.shields.io/badge/📜%20AICTE%20Edunet%20Certificate-View-success?style=for-the-badge" />
   </a>
 </p>
 
@@ -101,8 +100,7 @@ Worked on an AI-powered Helmet Detection System using YOLOv8n and Computer Visio
 <h3 align="center">📊 AICTE Approved VOIS Internship</h3>
 
   <p align="center>
-    <a href="images/VOIS_certificate.jpeg">
-    <img src="https://img.shields.io/badge/📜%20VOIS%20Internship%20Certificate-View-blue?style=for-the-badge" />
+    <img src="images/VOIS_certificate.jpeg">
   </a>
 </p>
 
