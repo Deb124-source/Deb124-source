@@ -322,18 +322,27 @@ Data analysis project exploring Netflix content trends and insights through visu
 <br>
 
 
+
 <br><br>
+
+
+<br>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=Deb124-source&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
 <br><br>
 
+
+<br>
 
 <h2 align="center"> 🔹 Activity Graph</h2>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deb124-source)
+
+<br><br>
 
 <br>
 
@@ -347,6 +356,9 @@ Data analysis project exploring Netflix content trends and insights through visu
 </p>
 
 <br><br>
+
+<br>
+
 
 <h2 align="center">📩 Connect With Me</h2>
 
@@ -367,6 +379,8 @@ Data analysis project exploring Netflix content trends and insights through visu
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<br><br>
 
 <br>
 
