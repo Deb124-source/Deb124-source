@@ -2,7 +2,13 @@
 
 <br>
 
+
+<p align="center">
+  
 ![Followers](https://img.shields.io/github/followers/Deb124-source?logo=github)
+
+</p>
+
 
 <br>
 
