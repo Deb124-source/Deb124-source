@@ -2,13 +2,18 @@
 
 <br>
 
-
 <p align="center">
-  
-![Followers](https://img.shields.io/github/followers/Deb124-source?logo=github)
-
+  <img src="https://img.shields.io/github/followers/Deb124-source?style=social" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20ML-Developer-blue" />
+  
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green" />
+
+ <img src="https://img.shields.io/badge/Made%20with-❤️-red" />
+ 
+  </p>
 
 <br>
 
