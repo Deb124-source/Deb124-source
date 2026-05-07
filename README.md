@@ -7,12 +7,16 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Open+Source+Contributor;Full+Stack+Learner;Building+Projects" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/AI%20ML-Developer-blue" />
   
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green" />
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
+
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
@@ -68,32 +72,66 @@ A passionate aspiring Machine Learning Engineer from India with a keen interest 
 
 <br>
 
-<h2 align="center">⚙️ My Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<br>
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,mongodb,mysql,git,github,flask" />
+  <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
-<br>
+---
+
+<h3 align="center">🤖 AI / ML</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
+---
+
+<h3 align="center">🌐 Web Development</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">📚 Currently Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,nextjs,docker" />
 </p>
 
 <br>
