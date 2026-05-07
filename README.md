@@ -247,12 +247,6 @@ Data analysis project exploring Netflix content trends and insights through visu
 </p>
 
 
-<h2 align="center">📍 Most Used Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deb124-source&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <br>
 
 <h2 align="center">📈 GitHub Stats</h2>
