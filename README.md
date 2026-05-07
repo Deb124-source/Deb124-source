@@ -98,8 +98,8 @@ Worked on an AI-powered Helmet Detection System using YOLOv8n and Computer Visio
 
 <h3 align="center">📊 AICTE Approved VOIS Internship</h3>
 
-  <p align="center>
-    <img src="images/VOIS_certificate.jpeg" alt="VOIS Certificate" width="800"/>
+<p align="center">
+  <img src="images/VOIS_certificate.jpeg" alt="VOIS Certificate" width="800"/>
 </p>
 
 <p align="center">
