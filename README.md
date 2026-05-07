@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
 
 <br>
-<h3 align="center">AI ML Developer | Open Source Contributor | CSE(AI+ML) Student</h3>
+<h3 align="center">AI ML Developer | Open Source Contributor</h3>
 
 <p align="center">
 Building AI-powered applications and real-world projects.
@@ -20,7 +20,7 @@ Building AI-powered applications and real-world projects.
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+ML+Developer;Data+Driven+Decision+Maker;Tech+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Driven+Decision+Maker;Tech+Lover" />
 </p>
 
 <br>
