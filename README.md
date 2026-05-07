@@ -40,13 +40,19 @@ Building AI-powered applications and real-world projects.
 </p>
 
 <br>
+<h3 align="center">Check My Portfolio👉</h3>
+
 <p align="center">
-  <h3 align="center">Check My Portfolio:</h3>
   <a href="https://deb124-source.github.io/Personal-Portfolio-Website/">
     <img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  
-  <h3 align="center">Check My Resume:</h3>
+</p>
+
+<br>
+
+<h3 align="center">Check My Resume👉</h3>
+
+<p align="center">
   <a href="https://drive.google.com/file/d/13Y2AcG3fEnljDIab6ZbGvzM1ws5ZB9mK/view">
     <img src="https://img.shields.io/badge/Check-Resume-success?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
