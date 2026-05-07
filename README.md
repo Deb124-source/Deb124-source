@@ -6,36 +6,22 @@
   <img src="https://img.shields.io/github/followers/Deb124-source?style=social" />
 </p>
 
+<br>
+
+<h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
+
+<br>
+<h3 align="center">AI ML Developer | Open Source Contributor | CSE(AI+ML) Student</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20ML-Developer-blue" />
-  
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green" />
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
- 
-  </p>
+Building AI-powered applications and real-world projects.
+</p>
 
 <br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+ML+Developer;Data+Driven+Decision+Maker;Tech+Lover" />
 </p>
-
-
-<br>
-
-<h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
-
-<br>
-
-<h3 align="center">
-A passionate aspiring Machine Learning Engineer from India with a keen interest in Data Analysis.
-</h3>
 
 <br>
 
