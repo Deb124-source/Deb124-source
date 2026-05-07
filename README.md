@@ -252,17 +252,13 @@ Data analysis project exploring Netflix content trends and insights through visu
   <img src="https://user-images.githubusercontent.com/74038190/216654657-081b7a8e-4d3c-4a2e-8a2e-9c3f6c1fbe9b.gif">
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">📍 Most Used Languages</h2>
 
-<br>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb124-source&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb124-source&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<br>
 
 
 <h2 align="center">📈 GitHub Stats</h2>
