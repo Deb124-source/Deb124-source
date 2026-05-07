@@ -63,6 +63,69 @@ A passionate aspiring Machine Learning Engineer from India with a keen interest 
 
 <br>
 
+
+<h2 align="center">💼 Experience</h2>
+
+<br>
+
+<!-- AICTE Edunet Internship -->
+
+<h3 align="center">🤖 AICTE Edunet Internship</h3>
+
+<p align="center">
+  <a href="images/Shell_certificate.jpeg">
+    <img src="https://img.shields.io/badge/📜%20AICTE%20Edunet%20Certificate-View-success?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+Worked on an AI-powered Helmet Detection System using YOLOv8n and Computer Vision technologies for real-time safety monitoring.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AICTE-Intern-blue?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-purple?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-red?style=for-the-badge" />
+</p>
+<p align="center">
+  <a href="https://github.com/Deb124-source/AICTE_Edunet_Shell_Bike_Helmet_Detection_using_yolov8n_Debdut_Nandy">
+    <img src="https://img.shields.io/badge/📂%20View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+<br><br>
+
+<!-- VOIS Internship -->
+
+<h3 align="center">📊 AICTE Approved VOIS Internship</h3>
+
+  <p align="center>
+    <a href="images/VOIS_certificate.jpeg">
+    <img src="https://img.shields.io/badge/📜%20VOIS%20Internship%20Certificate-View-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+Completed a Data Analytics internship under VOIS where I worked on Netflix Dataset Analysis to uncover trends, patterns, and insights using data visualization and analytics tools.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VOIS-Internship-6A5ACD?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Data%20Analytics-Python-success?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/Plotly-Visualization-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Deb124-source/VOIS_AICTE_Oct2025_MajorProject_DebdutNandy">
+    <img src="https://img.shields.io/badge/📂%20View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<br>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216654657-081b7a8e-4d3c-4a2e-8a2e-9c3f6c1fbe9b.gif">
 </p>
