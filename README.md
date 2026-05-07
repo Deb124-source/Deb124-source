@@ -304,13 +304,17 @@ Data analysis project exploring Netflix content trends and insights through visu
   <a href="https://www.linkedin.com/in/debdut-nandy-4b0a88321">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/Deb124-source">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+</p>
 
-  <a href="mailto: debdut937@gmail.com">
-    <img src="https://skillicons.dev/icons?i=email" />
+ <p align="center">
+  <a href="mailto:debdut937@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
