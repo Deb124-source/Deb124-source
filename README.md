@@ -136,7 +136,6 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
   <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
----
 
 <h3 align="center">🤖 AI / ML</h3>
 
@@ -158,7 +157,6 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
----
 
 <h3 align="center">🌐 Web Development</h3>
 
@@ -166,7 +164,6 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 </p>
 
----
 
 <h3 align="center">🛠️ Tools & Platforms</h3>
 
@@ -177,8 +174,6 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
-
----
 
 <h3 align="center">📚 Currently Learning</h3>
 
