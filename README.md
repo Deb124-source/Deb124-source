@@ -313,15 +313,13 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <div align="center">
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deb124-source&theme=radical"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deb124-source&theme=radical"/><br>
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Deb124-source&theme=radical"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=Deb124-source&theme=radical" />
 
 </div>
 
 <br>
-
-
 
 <br><br>
 
