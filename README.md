@@ -135,17 +135,16 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
    
 
 
-<h3 align="center">🤖 AI / ML</h3>
+<h3 align="center">🤖 AI / ML</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
 </p>
 
 <h3 align="center">🌐 Web Development</h3>
@@ -161,7 +160,7 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60"/>
 
 </p>
 
