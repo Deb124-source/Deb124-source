@@ -13,8 +13,7 @@
 <br>
 
 <h2 align="center">👨‍💻 About Me</h2>
-<p align="center">
-Passionate AI & ML developer from India.<br>
+<p align="center">Passionate AI & ML developer from India.<br>
 Interested in intelligent systems, automation, and full-stack applications.<br>
 Currently exploring Django, Flask, and Machine Learning deployment.
 </p>
@@ -33,12 +32,13 @@ Currently exploring Django, Flask, and Machine Learning deployment.
 
 <br>
 
-<p align="center">
-🔭 Working on Traffic AI Website <br>
-🎓 B.Tech in CSE (AI & ML) <br>
-💡 Love building intelligent systems <br>
-🌱 Learning Django & Flask <br>
-⚡ Passionate learner
+<p align="center">🔭 Building AI-powered web applications & Traffic AI systems 🚦
+<p align="center">🎓 B.Tech CSE (AI & ML) student 
+  passionate about intelligent technologies 🤖
+<p align="center">💡 Interested in Machine Learning, automation, and full-stack development 🧠
+<p align="center">🌱 Currently learning Django, Flask, and ML deployment 🚀
+<p align="center">⚡ Love building projects and exploring new technologies 💻
+
 </p>
 
 <br>
