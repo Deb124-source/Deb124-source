@@ -157,12 +157,9 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 <h3 align="center">🛠️ Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,googlecolab" />
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
-
-</p>
 
 <h3 align="center">📚 Currently Learning</h3>
 
