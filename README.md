@@ -131,12 +131,8 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 <h3 align="center">💻 Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=c" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+   
 
 
 <h3 align="center">🤖 AI / ML</h3>
