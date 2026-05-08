@@ -11,10 +11,12 @@
 <h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
 
 <br>
-<h3 align="center">AI ML Developer | Open Source Contributor</h3>
 
+<h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-Building AI-powered applications and real-world projects.
+Passionate AI & ML developer from India.<br>
+Interested in intelligent systems, automation, and full-stack applications.<br>
+Currently exploring Django, Flask, and Machine Learning deployment.
 </p>
 
 <br>
