@@ -138,9 +138,8 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 <h3 align="center">🤖 AI / ML</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,PyTorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   
