@@ -290,13 +290,7 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <h2 align="center">📝 Latest Blogs</h2>
 
-<p align="center">
-  
-- <a href="https://debdut-aihashnodedev.hashnode.dev/understanding-deadlock-in-operating-systems-prevention-avoidance-and-recovery">
-Understanding Deadlock in Operating Systems
-</a>
-
-</p>
+- [Understanding Deadlock in Operating Systems](https://debdut-aihashnodedev.hashnode.dev/understanding-deadlock-in-operating-systems-prevention-avoidance-and-recovery)
 <br><br>
 
 <p align="center">
