@@ -290,9 +290,8 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <h2 align="center">📝 Latest Blogs</h2>
 
-<p align="center">
-[From Theory to Deployment: Built a Real-Time Bike Helmet Detection System using YOLOv8](https://debdut-techhashnodedev.hashnode.dev/from-theory-to-deployment-built-a-real-time-bike-helmet-detection-system-using-yolov8)
-</p>
+-[From Theory to Deployment: Built a Real-Time Bike Helmet Detection System using YOLOv8](https://debdut-techhashnodedev.hashnode.dev/from-theory-to-deployment-built-a-real-time-bike-helmet-detection-system-using-yolov8)
+
 
 <br><br>
 
