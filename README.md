@@ -311,7 +311,6 @@ Data analysis project exploring Netflix content trends and insights through visu
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deb124-source&theme=tokyonight"
 /><br>
 
-    <!-- Top Languages -->
 <img height="160em"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deb124-source&theme=tokyonight"
 /><br>
 
