@@ -8,11 +8,11 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Debdut Nandy</h1>
+<h1 align="center">Hi, I'm Debdut Nandy</h1>
 
 <br>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"> About Me</h2>
 <p align="center">Passionate AI & ML developer from India.<br>
 Interested in intelligent systems, automation, and full-stack applications.<br>
 Currently exploring Streamlit and Flask.
@@ -32,17 +32,17 @@ Currently exploring Streamlit and Flask.
 
 <br>
 
-<p align="center">🔭 Building AI-powered web applications & Traffic AI systems 🚦
-<p align="center">🎓 B.Tech CSE (AI & ML) student 
-  passionate about intelligent technologies 🤖
-<p align="center">💡 Interested in Machine Learning, automation, and full-stack development 🧠
-<p align="center">🌱 Currently learning Django, Flask, and ML deployment 🚀
-<p align="center">⚡ Love building projects and exploring new technologies 💻
+<p align="center"> Building AI-powered web applications & Traffic AI systems 
+<p align="center"> B.Tech CSE (AI & ML) student 
+  passionate about intelligent technologies 
+<p align="center"> Interested in Machine Learning, automation, and full-stack development 
+<p align="center"> Currently learning Django, Flask, and ML deployment 
+<p align="center"> Love building projects and exploring new technologies 
 
 </p>
 
 <br>
-<h3 align="center">Check My Portfolio👉</h3>
+<h3 align="center">Check My Portfolio</h3>
 
 <p align="center">
   <a href="https://deb124-source.github.io/Personal-Portfolio-Website/">
@@ -52,7 +52,7 @@ Currently exploring Streamlit and Flask.
 
 <br>
 
-<h3 align="center">Check My Resume👉</h3>
+<h3 align="center">Check My Resume</h3>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/13Y2AcG3fEnljDIab6ZbGvzM1ws5ZB9mK/view">
@@ -62,13 +62,13 @@ Currently exploring Streamlit and Flask.
 
 <br>
 
-<h2 align="center">💼 Experience</h2>
+<h2 align="center"> Experience</h2>
 
 <br>
 
 <!-- AICTE Edunet Internship -->
 
-<h3 align="center">🤖 AICTE Edunet Internship</h3>
+<h3 align="center"> AICTE Edunet Internship</h3>
 
 <p align="center">
  <img src="images/Shell_certificate.jpeg" alt="AICTE Certificate" width="800"/>
@@ -94,7 +94,7 @@ Worked on an AI-powered Helmet Detection System using YOLOv8n and Computer Visio
 
 <!-- VOIS Internship -->
 
-<h3 align="center">📊 AICTE Approved VOIS Internship</h3>
+<h3 align="center"> AICTE Approved VOIS Internship</h3>
 
 <p align="center">
   <img src="images/VOIS_certificate.jpeg" alt="VOIS Certificate" width="800"/>
@@ -126,16 +126,16 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 
 <br>
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center"> Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
    
 
 
-<h3 align="center">🤖 AI / ML</h2>
+<h3 align="center"> AI / ML</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
@@ -147,14 +147,14 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
 </p>
 
-<h3 align="center">🌐 Web Development</h3>
+<h3 align="center"> Web Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 </p>
 
 
-<h3 align="center">🛠️ Tools & Platforms</h3>
+<h3 align="center"> Tools & Platforms</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -162,7 +162,7 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 </p>
 
 
-<h3 align="center">📚 Currently Learning</h3>
+<h3 align="center"> Currently Learning</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,nextjs,docker" />
@@ -170,13 +170,13 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 
 <br><br>
 
-<h2 align="center">🗂️ Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <br>
 
 <!-- Helmet Detection -->
 
-<h3 align="center">👨‍🏭 Helmet Detection System</h3>
+<h3 align="center"> Helmet Detection System</h3>
 <p align="center">
   <img src="images/Helmet_detection.jpg" alt="Project Preview" width="800"/>
 </p>
@@ -206,7 +206,7 @@ AI-powered helmet detection system using YOLOv8n for real-time safety monitoring
 
 <!-- House Price Prediction -->
 
-<h3 align="center">🏠 House Price Prediction System</h3>
+<h3 align="center"> House Price Prediction System</h3>
 <p align="center">
   <img src="images/demo_prediction.png" alt="Project Preview" width="800"/>
 </p>
@@ -234,7 +234,7 @@ Machine learning model for predicting house prices using regression techniques.
 
 <!-- Loan Approval -->
 
-<h3 align="center">🏦 Bank Loan Approval System</h3>
+<h3 align="center"> Bank Loan Approval System</h3>
 <p align="center">
   <img src="images/Bank_Loan.jpg" alt="Project Preview" width="800"/>
 </p>
@@ -262,7 +262,7 @@ ML-based loan eligibility prediction system using financial and customer data.
 
 <!-- Netflix Analysis -->
 
-<h3 align="center">🎬 Netflix Dataset Analysis</h3>
+<h3 align="center"> Netflix Dataset Analysis</h3>
 <p align="center">
   <img src="images/Netflix.jpg" alt="Project Preview" width="800"/>
 </p>
@@ -288,7 +288,7 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <br>
 
-<h2 align="center">📝 Latest Blogs</h2>
+<h2 align="center"> Latest Blogs</h2>
 
 -[From Theory to Deployment: Built a Real-Time Bike Helmet Detection System using YOLOv8](https://debdut-techhashnodedev.hashnode.dev/from-theory-to-deployment-built-a-real-time-bike-helmet-detection-system-using-yolov8)
 
@@ -302,7 +302,7 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <br><br>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <br>
 
@@ -327,7 +327,7 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center"> GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=Deb124-source&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -337,7 +337,7 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <br>
 
-<h2 align="center"> 🔹 Activity Graph</h2>
+<h2 align="center">  Activity Graph</h2>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deb124-source)
 
@@ -345,13 +345,13 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <br>
 
-<h2 align="center">🎯 Goals</h2>
+<h2 align="center"> Goals</h2>
 
 <p align="center">
-🧠 Build ML-integrated apps <br>
-☁️ Learn AWS/Azure <br>
-📚 Contribute to open-source <br>
-🏆 Participate in hackathons  
+ Build ML-integrated apps <br>
+ Learn AWS/Azure <br>
+ Contribute to open-source <br>
+ Participate in hackathons  
 </p>
 
 <br><br>
@@ -359,7 +359,7 @@ Data analysis project exploring Netflix content trends and insights through visu
 <br>
 
 
-<h2 align="center">📩 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debdut-nandy-4b0a88321">
