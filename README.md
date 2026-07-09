@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Deb124-source?style=social" />
+  <img src="https://img.shields.io/github/followers/Deb124-source?style=social"/>
 </p>
 
 <br>
@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="center"> About Me</h2>
+<h2 align="center">About Me</h2>
 <p align="center">Passionate AI & ML developer from India.<br>
 Interested in intelligent systems, automation, and full-stack applications.<br>
 Currently exploring Streamlit and Flask.
