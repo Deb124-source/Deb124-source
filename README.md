@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Debdut%20Nandy&fontSize=50&animation=fadeIn" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Debdut%20Nandy&fontSize=50&animation=fadeIn" />
+</div>
 <br>
 
 <p align="center">
@@ -62,63 +63,6 @@ Currently exploring Streamlit and Flask.
 
 <br>
 
-<h2 align="center"> Experience</h2>
-
-<br>
-
-<!-- AICTE Edunet Internship -->
-
-<h3 align="center"> AICTE Edunet Internship</h3>
-
-<p align="center">
- <img src="images/Shell_certificate.jpeg" alt="AICTE Certificate" width="800"/>
-</p>
-
-<p align="center">
-Worked on an AI-powered Helmet Detection System using YOLOv8n and Computer Vision technologies for real-time safety monitoring.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AICTE-Intern-blue?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-purple?style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-red?style=for-the-badge" />
-</p>
-<p align="center">
-  <a href="https://github.com/Deb124-source/AICTE_Edunet_Shell_Bike_Helmet_Detection_using_yolov8n_Debdut_Nandy">
-    <img src="https://img.shields.io/badge/📂%20View%20Project-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-<br><br>
-
-<!-- VOIS Internship -->
-
-<h3 align="center"> AICTE Approved VOIS Internship</h3>
-
-<p align="center">
-  <img src="images/VOIS_certificate.jpeg" alt="VOIS Certificate" width="800"/>
-</p>
-
-<p align="center">
-Completed a Data Analytics internship under VOIS where I worked on Netflix Dataset Analysis to uncover trends, patterns, and insights using data visualization and analytics tools.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VOIS-Internship-6A5ACD?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Data%20Analytics-Python-success?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/Plotly-Visualization-blue?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Deb124-source/VOIS_AICTE_Oct2025_MajorProject_DebdutNandy">
-    <img src="https://img.shields.io/badge/📂%20View%20Project-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216654657-081b7a8e-4d3c-4a2e-8a2e-9c3f6c1fbe9b.gif">
@@ -133,7 +77,6 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
    
-
 
 <h3 align="center"> AI / ML</h2>
 
@@ -150,7 +93,7 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 <h3 align="center"> Web Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 
@@ -158,6 +101,7 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-plain.svg" width="40"/>
 </p>
 
@@ -165,151 +109,16 @@ Completed a Data Analytics internship under VOIS where I worked on Netflix Datas
 <h3 align="center"> Currently Learning</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,nextjs,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,nextjs" />
 </p>
-
-<br><br>
-
-<h2 align="center"> Featured Projects</h2>
-
-<br>
-
-<!-- Helmet Detection -->
-
-<h3 align="center"> Helmet Detection System</h3>
-<p align="center">
-  <img src="images/Helmet_detection.jpg" alt="Project Preview" width="800"/>
-</p>
-<p align="center">
-AI-powered helmet detection system using YOLOv8n for real-time safety monitoring.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/YOLOv8-FF4B4B?style=for-the-badge" />
-  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Deb124-source/AICTE_Edunet_Shell_Bike_Helmet_Detection_using_yolov8n_Debdut_Nandy">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20Project-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<br><br>
-
-<!-- House Price Prediction -->
-
-<h3 align="center"> House Price Prediction System</h3>
-<p align="center">
-  <img src="images/demo_prediction.png" alt="Project Preview" width="800"/>
-</p>
-<p align="center">
-Machine learning model for predicting house prices using regression techniques.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Deb124-source/House-Price-Prediction-System-Debdut-Nandy">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20Project-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<br><br>
-
-<!-- Loan Approval -->
-
-<h3 align="center"> Bank Loan Approval System</h3>
-<p align="center">
-  <img src="images/Bank_Loan.jpg" alt="Project Preview" width="800"/>
-</p>
-<p align="center">
-ML-based loan eligibility prediction system using financial and customer data.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
-  
-  <img src="https://img.shields.io/badge/Data%20Science-0A192F?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Deb124-source/Bank-Loan-Approval-System-ML">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20Project-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<br><br>
-
-<!-- Netflix Analysis -->
-
-<h3 align="center"> Netflix Dataset Analysis</h3>
-<p align="center">
-  <img src="images/Netflix.jpg" alt="Project Preview" width="800"/>
-</p>
-<p align="center">
-Data analysis project exploring Netflix content trends and insights through visualization.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Data%20Analysis-6A5ACD?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Deb124-source/VOIS_AICTE_Oct2025_MajorProject_DebdutNandy">
-    <img src="https://img.shields.io/badge/📊%20Visit%20Project-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654657-081b7a8e-4d3c-4a2e-8a2e-9c3f6c1fbe9b.gif">
-</p>
-
 
 <br><br>
 
 <h2 align="center"> GitHub Stats</h2>
-
-<br>
-
-<div align="center">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deb124-source&theme=tokyonight"
-/><br>
-
-<img height="160em"  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deb124-source&theme=tokyonight"
-/><br>
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deb124-source&theme=radical"/><br>
-
+<p align="center">
+  
 <img height="160em" src="https://streak-stats.demolab.com?user=Deb124-source&theme=radical" />
+</p>
 
 </div>
 
@@ -366,4 +175,6 @@ Data analysis project exploring Netflix content trends and insights through visu
 
 <br>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=120&section=footer"/>
+</div>
