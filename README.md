@@ -127,8 +127,6 @@ Currently exploring Streamlit and Flask.
 <br><br>
 
 
-<br>
-
 <h2 align="center">  Activity Graph</h2>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deb124-source)
