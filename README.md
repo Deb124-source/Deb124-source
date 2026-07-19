@@ -16,7 +16,7 @@
 <h2 align="center">About Me</h2>
 <p align="center">Passionate AI & ML developer from India.<br>
 Interested in intelligent systems, automation, and full-stack applications.<br>
-Currently exploring Streamlit and Flask.
+Currently exploring Mongo DB and Flask.
 </p>
 
 <br>
