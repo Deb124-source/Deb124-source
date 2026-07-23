@@ -150,7 +150,6 @@ Currently exploring Mongo DB and Flask.
 <p align="center">
  Build ML-integrated apps <br>
  Learn AWS/Azure <br>
- Contribute to open-source <br>
  Participate in hackathons  
 </p>
 
