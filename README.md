@@ -36,7 +36,7 @@ Interested in intelligent systems, automation, and ML applications.<br>
 <p align="center"> B.Tech CSE (AI & ML) student 
   passionate about intelligent technologies 
 <p align="center"> Interested in Machine Learning, automation, and full-stack development 
-<p align="center"> Currently learning Django, Flask, and ML deployment 
+<p align="center"> Currently learning Flask and ML deployment 
 <p align="center"> Love building projects and exploring new technologies 
 
 </p>
