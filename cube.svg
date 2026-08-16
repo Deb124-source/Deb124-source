@@ -1,0 +1,273 @@
+<svg width="500" height="420" viewBox="0 0 500 420"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Top gradient -->
+    <linearGradient id="topGradient"
+                    x1="0" y1="0"
+                    x2="1" y2="1">
+
+      <stop offset="0%" stop-color="#182642"/>
+      <stop offset="100%" stop-color="#071226"/>
+
+    </linearGradient>
+
+
+    <!-- Left gradient -->
+    <linearGradient id="leftGradient"
+                    x1="0" y1="0"
+                    x2="1" y2="1">
+
+      <stop offset="0%" stop-color="#ff6a00"/>
+      <stop offset="100%" stop-color="#b91c0c"/>
+
+    </linearGradient>
+
+
+    <!-- Right gradient -->
+    <linearGradient id="rightGradient"
+                    x1="0" y1="0"
+                    x2="1" y2="1">
+
+      <stop offset="0%" stop-color="#00a878"/>
+      <stop offset="100%" stop-color="#006b58"/>
+
+    </linearGradient>
+
+
+    <!-- Blue glow -->
+    <filter id="glow"
+            x="-100%"
+            y="-100%"
+            width="300%"
+            height="300%">
+
+      <feGaussianBlur
+          stdDeviation="8"
+          result="blur"/>
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+
+    </filter>
+
+
+    <!-- Shadow -->
+    <filter id="shadow"
+            x="-100%"
+            y="-100%"
+            width="300%"
+            height="300%">
+
+      <feGaussianBlur
+          stdDeviation="12"/>
+
+    </filter>
+
+  </defs>
+
+
+  <!-- ================================= -->
+  <!-- FLOATING BLUE SHADOW -->
+  <!-- ================================= -->
+
+  <ellipse
+      cx="250"
+      cy="375"
+      rx="125"
+      ry="20"
+      fill="#1687c9"
+      opacity="0.25"
+      filter="url(#shadow)"/>
+
+
+  <!-- ================================= -->
+  <!-- TOP FACE -->
+  <!-- ================================= -->
+
+  <polygon
+      points="120,105 250,45 380,105 250,165"
+      fill="url(#topGradient)"
+      stroke="#334155"
+      stroke-width="2"/>
+
+
+  <!-- Inner top border -->
+
+  <polygon
+      points="132,105 250,57 368,105 250,153"
+      fill="none"
+      stroke="#475569"
+      stroke-width="1"
+      opacity="0.8"/>
+
+
+  <!-- ================================= -->
+  <!-- LEFT FACE -->
+  <!-- ================================= -->
+
+  <polygon
+      points="120,105 250,165 250,325 120,265"
+      fill="url(#leftGradient)"
+      stroke="#ff7a18"
+      stroke-width="2"/>
+
+
+  <!-- Inner left border -->
+
+  <polygon
+      points="132,113 238,163 238,306 132,257"
+      fill="none"
+      stroke="#ff9a45"
+      stroke-width="1"
+      opacity="0.8"/>
+
+
+  <!-- ================================= -->
+  <!-- RIGHT FACE -->
+  <!-- ================================= -->
+
+  <polygon
+      points="250,165 380,105 380,265 250,325"
+      fill="url(#rightGradient)"
+      stroke="#00d59c"
+      stroke-width="2"/>
+
+
+  <!-- Inner right border -->
+
+  <polygon
+      points="262,170 368,121 368,257 262,307"
+      fill="none"
+      stroke="#35e6b1"
+      stroke-width="1"
+      opacity="0.8"/>
+
+
+  <!-- ================================= -->
+  <!-- TOP TEXT -->
+  <!-- ================================= -->
+
+  <g
+      transform="translate(250 110)
+                 rotate(-25)">
+
+    <text
+        x="0"
+        y="0"
+        text-anchor="middle"
+        fill="#f8fafc"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-weight="800"
+        letter-spacing="2">
+
+      AI / ML
+
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- LEFT TEXT -->
+  <!-- ================================= -->
+
+  <g
+      transform="translate(185 220)
+                 rotate(24)">
+
+    <text
+        x="0"
+        y="0"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        font-weight="800"
+        letter-spacing="1">
+
+      BUILD
+
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- RIGHT TEXT -->
+  <!-- ================================= -->
+
+  <g
+      transform="translate(315 220)
+                 rotate(-24)">
+
+    <text
+        x="0"
+        y="0"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        font-weight="800"
+        letter-spacing="1">
+
+      ANALYZE
+
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- SMALL LABELS -->
+  <!-- ================================= -->
+
+  <text
+      x="250"
+      y="137"
+      text-anchor="middle"
+      fill="#94a3b8"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="8"
+      letter-spacing="2"
+      transform="rotate(-25 250 137)">
+
+    MACHINE LEARNING
+
+  </text>
+
+
+  <!-- ================================= -->
+  <!-- CUBE CORNER HIGHLIGHT -->
+  <!-- ================================= -->
+
+  <circle
+      cx="250"
+      cy="165"
+      r="4"
+      fill="#ffffff"
+      filter="url(#glow)"/>
+
+
+  <!-- ================================= -->
+  <!-- BOTTOM LABEL -->
+  <!-- ================================= -->
+
+  <text
+      x="250"
+      y="355"
+      text-anchor="middle"
+      fill="#64748b"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="10"
+      letter-spacing="3">
+
+    DEBDUT NANDY
+
+  </text>
+
+</svg>
