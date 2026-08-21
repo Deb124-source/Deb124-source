@@ -155,9 +155,9 @@ Interested in intelligent systems, automation, and ML applications.<br>
 <h2 align="center"> Goals</h2>
 
 <p align="center">
- Build ML-integrated apps <br>
+ Build ML-integrated apps and build end-to-end data analytics projects<br>
  Learn AWS/Azure <br>
- Participate in hackathons  
+ Participate in hackathons <br>
 </p>
 
 <br><br>
