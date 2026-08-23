@@ -82,7 +82,7 @@ Interested in intelligent systems, automation, and ML applications.<br>
 <h3 align="center"> Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
    
 
 <h3 align="center"> AI / ML</h2>
