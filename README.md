@@ -23,7 +23,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">Passionate AI & ML developer from India.<br>
-Interested in intelligent systems, automation, and ML applications.<br>
+Interested in intelligent systems and ML applications.<br>
 </p>
 
 <br>
