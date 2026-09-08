@@ -134,13 +134,6 @@ Interested in intelligent systems and ML applications.<br>
 <br><br>
 
 
-<h2 align="center">  Activity Graph</h2>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Deb124-source)
-
-<br><br>
-
-
 
 <h2 align="center"> Leetcode Profile</h2>
 
