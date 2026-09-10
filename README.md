@@ -9,7 +9,7 @@
 
 <br>
 
-<h1 align="center">Hi, I'm Debdut Nandy</h1>
+<h1 align="center"> Hi, I'm Debdut Nandy </h1>
 
 <br>
 
@@ -21,7 +21,7 @@
 
 </br>
 
-<h2 align="center">About Me</h2>
+<h2 align="center"> About Me </h2>
 <p align="center">Passionate AI & ML developer from India.<br>
 Interested in intelligent systems and ML applications.<br>
 </p>
@@ -50,7 +50,7 @@ Interested in intelligent systems and ML applications.<br>
 </p>
 
 <br>
-<h3 align="center">Check My Portfolio</h3>
+<h3 align="center"> Check My Portfolio </h3>
 
 <p align="center">
   <a href="https://deb124-source.github.io/Personal-Portfolio-Website/">
@@ -60,7 +60,7 @@ Interested in intelligent systems and ML applications.<br>
 
 <br>
 
-<h3 align="center">Check My Resume</h3>
+<h3 align="center"> Check My Resume </h3>
 
 <p align="center">
   <a href="Debdut_Nandy_Resume.pdf">
@@ -77,7 +77,7 @@ Interested in intelligent systems and ML applications.<br>
 
 <br>
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center"> Tech Stack </h2>
 
 <h3 align="center"> Languages</h3>
 
@@ -85,7 +85,7 @@ Interested in intelligent systems and ML applications.<br>
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
    
 
-<h3 align="center"> AI / ML</h2>
+<h3 align="center"> AI / ML </h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
@@ -97,14 +97,14 @@ Interested in intelligent systems and ML applications.<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
 </p>
 
-<h3 align="center"> Web Development</h3>
+<h3 align="center"> Web Development </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 
-<h3 align="center"> Tools & Platforms</h3>
+<h3 align="center"> Tools & Platforms </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -113,7 +113,7 @@ Interested in intelligent systems and ML applications.<br>
 </p>
 
 
-<h3 align="center"> Currently Learning</h3>
+<h3 align="center"> Currently Learning </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,nextjs" />
@@ -121,7 +121,7 @@ Interested in intelligent systems and ML applications.<br>
 
 <br><br>
 
-<h2 align="center"> GitHub Stats</h2>
+<h2 align="center"> GitHub Stats </h2>
 <p align="center">
   
 <img height="160em" src="https://streak-stats.demolab.com?user=Deb124-source&theme=radical" />
@@ -135,7 +135,7 @@ Interested in intelligent systems and ML applications.<br>
 
 
 
-<h2 align="center"> Leetcode Profile</h2>
+<h2 align="center"> Leetcode Profile </h2>
 
 
 <p align="center">
@@ -145,7 +145,7 @@ Interested in intelligent systems and ML applications.<br>
 <br><br>
 
 
-<h2 align="center"> Goals</h2>
+<h2 align="center"> Goals </h2>
 
 <p align="center">
  Build ML-integrated apps and build end-to-end data analytics projects<br>
@@ -158,7 +158,7 @@ Interested in intelligent systems and ML applications.<br>
 <br>
 
 
-<h2 align="center"> Connect With Me</h2>
+<h2 align="center"> Connect With Me </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debdut-nandy-4b0a88321">
