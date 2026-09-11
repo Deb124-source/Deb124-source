@@ -81,6 +81,7 @@ Interested in intelligent systems and ML applications.<br>
 <h2 align="center"> Tech Stack </h2>
 
 <!-- Languages -->
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="40"/>
   <img src="https://skillicons.dev/icons?i=java" width="40"/>
@@ -89,6 +90,7 @@ Interested in intelligent systems and ML applications.<br>
 </p>
 
 <!-- AI / ML -->
+<h3 align="center">AI/ML</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="40"/>
@@ -97,6 +99,7 @@ Interested in intelligent systems and ML applications.<br>
 </p>
 
 <!-- Web Development -->
+<h3 align="center">Web Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="40"/>
   <img src="https://skillicons.dev/icons?i=css" width="40"/>
@@ -105,6 +108,7 @@ Interested in intelligent systems and ML applications.<br>
 </p>
 
 <!-- Tools & Platforms -->
+<h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="40"/>
   <img src="https://skillicons.dev/icons?i=github" width="40"/>
@@ -117,7 +121,8 @@ Interested in intelligent systems and ML applications.<br>
   <img src="https://skillicons.dev/icons?i=googlecolab" width="40"/>
 </p>
 
-<!-- Deployment -->
+<!--Deployments-->
+<h3 align="center">Deployment</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="40"/>
@@ -127,6 +132,7 @@ Interested in intelligent systems and ML applications.<br>
 </p>
 
 <!-- Currently Learning -->
+<h3 align="center">Curently Learning</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
