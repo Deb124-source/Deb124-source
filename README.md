@@ -3,6 +3,7 @@
 </div>
 <br>
 
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/Deb124-source?style=social"/>
 </p>
@@ -79,44 +80,56 @@ Interested in intelligent systems and ML applications.<br>
 
 <h2 align="center"> Tech Stack </h2>
 
-<h3 align="center"> Languages</h3>
-
+<!-- Languages -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
-   
+  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
+</p>
 
-<h3 align="center"> AI / ML </h2>
-
+<!-- AI / ML -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="40"/>
   <img src="https://skillicons.dev/icons?i=opencv" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40"/>
 </p>
 
-<h3 align="center"> Web Development </h3>
-
+<!-- Web Development -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
 </p>
 
-
-<h3 align="center"> Tools & Platforms </h3>
-
+<!-- Tools & Platforms -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-plain.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="40" alt="Streamlit"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40"/>
+  <img src="https://skillicons.dev/icons?i=googlecolab" width="40"/>
 </p>
 
-
-<h3 align="center"> Currently Learning </h3>
-
+<!-- Deployment -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,nextjs" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="40"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="40" alt="Render"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/>
+</p>
+
+<!-- Currently Learning -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
 </p>
 
 <br><br>
