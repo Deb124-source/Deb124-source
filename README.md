@@ -127,7 +127,6 @@ Interested in intelligent systems and ML applications.<br>
   <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="40"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="40" alt="Render"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="40"/>
   <img src="https://skillicons.dev/icons?i=aws" width="40"/>
 </p>
 
