@@ -151,17 +151,13 @@ Interested in intelligent systems and ML applications.<br>
 
 <br><br>
 
-
-
 <h2 align="center"> Leetcode Profile </h2>
-
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Debdut_23?theme=dark&font=Karma&ext=contest" />
 </p>
 
 <br><br>
-
 
 <h2 align="center"> Goals </h2>
 
