@@ -64,7 +64,7 @@ Interested in intelligent systems and ML applications.<br>
 <h3 align="center"> Check My Resume </h3>
 
 <p align="center">
-  <a href="Debdut_Nandy_Resume.pdf">
+  <a href="Debdut _Nandy_Resume.pdf">
     <img src="https://img.shields.io/badge/Check-Resume-success?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
