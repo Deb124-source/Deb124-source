@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Deb124-source?style=social"/>
 </p>
-
 <br>
 
 <h1 align="center"> Hi, I'm Debdut Nandy </h1>
